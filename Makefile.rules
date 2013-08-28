@@ -1,0 +1,4 @@
+LDFLAGS = 
+LIB_TINY_PRINTF = libprintf_Linux.a
+CC = gcc
+CFLAGS = -fPIC -W -Wall -Werror -pedantic
